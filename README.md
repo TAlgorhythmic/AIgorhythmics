@@ -10,3 +10,5 @@ An AI written in rust. This project aims to create a program that resembles a fe
 - Written in rust because why not 😀
 
 Let's see how far a computer program can get!
+
+This is only intended to work as an experiment, not for creating some kind of AI that replaces human jobs, although I'll not be the one to prevent that if someone wants to fork this and use it for their own purposes.
