@@ -4,4 +4,5 @@ version = "0.0.0"
 edition = "2021"
 
 [dependencies]
+jack = "0.13.3"
 redb = "2.4.0"
