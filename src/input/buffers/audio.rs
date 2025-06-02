@@ -1,3 +1,5 @@
-pub struct AudioBuffer {
+use jack;
 
+pub struct AudioBuffer {
+    
 }
