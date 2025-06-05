@@ -15,7 +15,7 @@ pub fn listen(proc: AudioProcessor) -> Result<(), Box<dyn Error + Send + Sync>> 
 
         todo!("Learn how this works and handle data.");
     }, |err| {
-        
+        println!("{err}");
     }, None)?;
 
     stream.play()?;
